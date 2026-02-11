@@ -1,0 +1,21 @@
+.container {
+max-width: 400px;
+margin: 50px auto;
+padding: 20px;
+border: 1px solid #ddd;
+border-radius: 8px;
+}
+input, select, button {
+display: block;
+width: 100%;
+margin: 10px 0;
+padding: 10px;
+font-size: 16px;
+}
+#result {
+margin-top: 20px;
+padding: 10px;
+background-color: #f0f0f0;
+border-radius: 4px;
+min-height: 20px;
+}
